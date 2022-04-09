@@ -71,6 +71,7 @@
 <a href = "https://www.linkedin.com/in/arbazakhter/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href = "https://www.hackerrank.com/arbazakhter355"><img width="48px" height="48px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
 <a href = "https://arbazakhter355.medium.com/"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
+<a href = "https://stackoverflow.com/users/17612302/arbaz-akhter"><img width="48px" height="48px" src="https://img.icons8.com/color-glass/344/stackoverflow.png"/></a>
 
 </p>
 
