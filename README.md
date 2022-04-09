@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/61103985/162586055-0d3cca91-ce17-47eb-b856-d73c2802ca2a.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arbaz Akhter</h1>
-<h3 align="center">I'm a passionate Full stack developer from India.</h3>
+<h3 align="center">I'm a passionate MERN stack developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
