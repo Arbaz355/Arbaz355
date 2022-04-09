@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[]()**
-
-- 🌱 I’m currently learning **Node js and mongo db**
+- 🌱 I’m currently learning **Node js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me on <a href="mailto:arbazakhter355@gmail.com">email</a>
+- 📫 You can reach me on my <a href="mailto:arbazakhter355@gmail.com">email</a>
 
 - ⚡ Fun fact **I like dancing and playing chess.**
 
