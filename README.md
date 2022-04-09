@@ -23,7 +23,7 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/bootstrap.png"/></a>
     <a href="https://jquery.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/ios/344/jquery.png"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/officel/344/react.png"/></a>
-    <a href="https://sass-lang.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/ios-filled/344/sass.png"/></a>
+    <a href="https://sass-lang.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/sass.png"/></a>
     <a href="https://babeljs.io/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/dusk/344/babel.png"/></a>
     <a href="https://www.npmjs.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/npm.png"/></a>
     <a href="https://webpack.js.org/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/dusk/344/webpack.png"/></a>
@@ -69,7 +69,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/arbazakhter/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://www.hackerrank.com/arbazakhter355"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
+<a href = "https://www.hackerrank.com/arbazakhter355"><img width="48px" height="48px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
 <a href = "https://arbazakhter355.medium.com/"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
 
 </p>
