@@ -18,7 +18,7 @@
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"/></a>
-    <a href="https://www.css3.info/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://www.css3.info/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/html-5--v1.png"/></a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
     <a href="https://getbootstrap.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/bootstrap.png"/></a>
     <a href="https://jquery.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/ios/344/jquery.png"/></a>
