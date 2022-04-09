@@ -20,14 +20,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-programming-icons-flaticons-lineal-color-flat-icons-2.png"/></a>
     <a href="https://www.css3.info/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png"/></a>
-    <a href="https://jquery.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/344/jquery.png"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/344/react.png"/></a>
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/344/sass.png"/></a>
-    <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/344/babel.png"/></a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/344/npm.png"/></a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/dusk/344/webpack.png"/></a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluency/344/php.png"/></a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/bootstrap.png"/></a>
+    <a href="https://jquery.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/ios/344/jquery.png"/></a>
+    <a href="https://reactjs.org/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/officel/344/react.png"/></a>
+    <a href="https://sass-lang.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/ios-filled/344/sass.png"/></a>
+    <a href="https://babeljs.io/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/dusk/344/babel.png"/></a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/color/344/npm.png"/></a>
+    <a href="https://webpack.js.org/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/dusk/344/webpack.png"/></a>
+    <a href="https://www.php.net/" target="_blank"> <img width="48px" height="48px" src="https://img.icons8.com/fluency/344/php.png"/></a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
