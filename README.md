@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Arbaz355/Arbaz355/blob/main/new%20protfolio%20banner.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/Arbaz355/Arbaz355/blob/main/linkedin-banner.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arbaz Akhter</h1>
 <h3 align="center">I'm a passionate MERN stack developer from India.</h3>
